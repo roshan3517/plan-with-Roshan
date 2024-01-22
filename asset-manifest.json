@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roshan3517/plan-with-Roshan/static/css/main.9213a7e1.css",
+    "main.js": "/roshan3517/plan-with-Roshan/static/js/main.d6a0680f.js",
+    "index.html": "/roshan3517/plan-with-Roshan/index.html",
+    "main.9213a7e1.css.map": "/roshan3517/plan-with-Roshan/static/css/main.9213a7e1.css.map",
+    "main.d6a0680f.js.map": "/roshan3517/plan-with-Roshan/static/js/main.d6a0680f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9213a7e1.css",
+    "static/js/main.d6a0680f.js"
+  ]
+}
